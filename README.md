@@ -1,2 +1,2 @@
-# contosofinanceoffers
-Sample for Contoso Finance Offers API
+# AzureDemoAPI
+Sample for Azure Demo Offers API
